@@ -21,7 +21,7 @@ rm -f /root/ddos-deflate-master.zip
 
 rm -f /root/.bash_history && history -c
 
-fi
+
 
 function create_user() {
 	useradd -M $uname
